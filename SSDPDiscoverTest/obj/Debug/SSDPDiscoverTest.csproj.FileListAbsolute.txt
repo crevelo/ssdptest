@@ -1,0 +1,9 @@
+D:\Repository\VisualStudioProjects\SSDPDiscoverTest\SSDPDiscoverTest\bin\Debug\SSDPDiscoverTest.exe.config
+D:\Repository\VisualStudioProjects\SSDPDiscoverTest\SSDPDiscoverTest\obj\Debug\SSDPDiscoverTest.csprojResolveAssemblyReference.cache
+D:\Repository\VisualStudioProjects\SSDPDiscoverTest\SSDPDiscoverTest\obj\Debug\SSDPDiscoverTest.Properties.Resources.resources
+D:\Repository\VisualStudioProjects\SSDPDiscoverTest\SSDPDiscoverTest\obj\Debug\SSDPDiscoverTest.csproj.GenerateResource.Cache
+D:\Repository\VisualStudioProjects\SSDPDiscoverTest\SSDPDiscoverTest\bin\Debug\SSDPDiscoverTest.exe
+D:\Repository\VisualStudioProjects\SSDPDiscoverTest\SSDPDiscoverTest\bin\Debug\SSDPDiscoverTest.pdb
+D:\Repository\VisualStudioProjects\SSDPDiscoverTest\SSDPDiscoverTest\obj\Debug\SSDPDiscoverTest.Form1.resources
+D:\Repository\VisualStudioProjects\SSDPDiscoverTest\SSDPDiscoverTest\obj\Debug\SSDPDiscoverTest.exe
+D:\Repository\VisualStudioProjects\SSDPDiscoverTest\SSDPDiscoverTest\obj\Debug\SSDPDiscoverTest.pdb
