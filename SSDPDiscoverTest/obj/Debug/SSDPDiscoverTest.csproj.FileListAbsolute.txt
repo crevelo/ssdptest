@@ -7,3 +7,13 @@ D:\Repository\VisualStudioProjects\SSDPDiscoverTest\SSDPDiscoverTest\bin\Debug\S
 D:\Repository\VisualStudioProjects\SSDPDiscoverTest\SSDPDiscoverTest\obj\Debug\SSDPDiscoverTest.Form1.resources
 D:\Repository\VisualStudioProjects\SSDPDiscoverTest\SSDPDiscoverTest\obj\Debug\SSDPDiscoverTest.exe
 D:\Repository\VisualStudioProjects\SSDPDiscoverTest\SSDPDiscoverTest\obj\Debug\SSDPDiscoverTest.pdb
+D:\Files\VisualStudioProjectFiles\VisualStudio2015\ssdptest\SSDPDiscoverTest\bin\Debug\SSDPDiscoverTest.exe.config
+D:\Files\VisualStudioProjectFiles\VisualStudio2015\ssdptest\SSDPDiscoverTest\bin\Debug\SSDPDiscoverTest.exe
+D:\Files\VisualStudioProjectFiles\VisualStudio2015\ssdptest\SSDPDiscoverTest\bin\Debug\SSDPDiscoverTest.pdb
+D:\Files\VisualStudioProjectFiles\VisualStudio2015\ssdptest\SSDPDiscoverTest\obj\Debug\SSDPDiscoverTest.csprojResolveAssemblyReference.cache
+D:\Files\VisualStudioProjectFiles\VisualStudio2015\ssdptest\SSDPDiscoverTest\obj\Debug\SSDPDiscoverTest.Form1.resources
+D:\Files\VisualStudioProjectFiles\VisualStudio2015\ssdptest\SSDPDiscoverTest\obj\Debug\SSDPDiscoverTest.Properties.Resources.resources
+D:\Files\VisualStudioProjectFiles\VisualStudio2015\ssdptest\SSDPDiscoverTest\obj\Debug\SSDPDiscoverTest.csproj.GenerateResource.Cache
+D:\Files\VisualStudioProjectFiles\VisualStudio2015\ssdptest\SSDPDiscoverTest\obj\Debug\SSDPDiscoverTest.exe
+D:\Files\VisualStudioProjectFiles\VisualStudio2015\ssdptest\SSDPDiscoverTest\obj\Debug\SSDPDiscoverTest.pdb
+D:\Files\VisualStudioProjectFiles\VisualStudio2015\ssdptest\SSDPDiscoverTest\obj\Debug\SSDPDiscoverTest.FPasswordPrompt.resources
